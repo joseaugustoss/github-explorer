@@ -5,6 +5,7 @@
   "author": "José Augusto <joseaugusto0408@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "html-webpack-plugin": "^5.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
